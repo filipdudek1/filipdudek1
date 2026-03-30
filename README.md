@@ -1,4 +1,4 @@
-# Siemanko, jestem Filip! 👋
+# Siemanko👋
 ### 🛡️ Junior Cybersecurity & Cryptology Engineering Student
 
 Obecnie jestem studentem 3. roku na **Wojskowej Akademii Technicznej (WAT)** w Warszawie (specjalność: Cyberobrona). Pasjonuję się bezpieczeństwem sieci, zastosowaniami kryptografii i białym wywiadem (OSINT). 
